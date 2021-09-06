@@ -10,16 +10,11 @@ This repository includes the data about the two test problems used in the paper:
 
 - A 118-bus case study:
 
-  * [118bus_generation_data]: This folder contains the data used in the numerical experiment corresponding to the  118-bus case study with contextual information considered in [[1]](). The file "indices+str(N)".csv contains the 400 samples' index of size N; that is, each row (total=400) of the .csv file represents a sample of size N. The data points of the bivariate distribution are in the file entitled "muestra_dist_real.csv". The rest of the parameters of the numerical experiments are described in [[1]]().
+  * [118bus_generation_data]: This folder contains the data used in the numerical experiment corresponding to the  118-bus case study with contextual information considered in [[1]](). 
 
 - Illustrative example (3-bus system) at the Appendix.
 
-  * [3bus_generation_data]: This folder contains the data used in the numerical experiment corresponding to the portfolio allocation problem with side information used in [[1]]().    The file "indices+str(N)".csv contains the 200 samples' index of size N; that is, each row (total=200) of the .csv file represents a sample of size N. The data points of the joint distribution are in the file entitled "muestra_real_conjunta.csv".  The rest of the parameters of the numerical experiment are described in [[1]](). The main test case deals with the case in which alpha=0 and the data points of the true conditional distribution of this case are in the file entitled "muestra_dist_real.csv". Some crucial remarks to reproduce the numerical experiments in the paper in the case alpha=0:
-
-   
-
-
-The folder Codes contains the codes used in the numerical experiments.
+  * [3bus_generation_data]: This folder contains the data used in the numerical experiment corresponding to the Illustrative example (3-bus system)  used at the Appendix of  [[1]](). 
  
 ## References 📚
 [1] Esteban-Pérez, A., & Morales, J. M. (2021).   
