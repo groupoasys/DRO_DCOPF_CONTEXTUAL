@@ -10,11 +10,11 @@ This repository includes the data about the two test problems used in the paper:
 
 - A 118-bus case study:
 
-  * [118bus_case: This folder contains the data used in the numerical experiment corresponding to the  118-bus case study with contextual information considered in [[1]](). 
+  * [118bus_case: This folder contains the data and codes (medium and high wind penetration case) used in the numerical experiment corresponding to the  118-bus case study with contextual information considered in [[1]](). 
 
 - Illustrative example (3-bus system) at the Appendix.
 
-  * [3bus_case]: This folder contains the data used in the numerical experiment corresponding to the Illustrative example (3-bus system)  used at the Appendix of  [[1]](). 
+  * [3bus_case]: This folder contains the data and codes used in the numerical experiment corresponding to the Illustrative example (3-bus system)  used at the Appendix of  [[1]](). 
  
 ## References 📚
 [1] Esteban-Pérez, A., & Morales, J. M. (2021).   
