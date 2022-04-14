@@ -17,7 +17,7 @@ This repository includes the data about the two test problems used in the paper:
   * [3bus_case]: This folder contains the data and codes used in the numerical experiment corresponding to the Illustrative example (3-bus system)  used at the Appendix of  [[1]](). 
  
 ## References 📚
-[1] Esteban-Pérez, A., & Morales, J. M. (2021).   
+[1] Esteban-Pérez, A., & Morales, J. M. (2021). Distributionally Robust Optimal Power Flow with Contextual Information. arXiv preprint arXiv:2109.07896.   
 
 
 
